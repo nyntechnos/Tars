@@ -1,0 +1,133 @@
+<medicine>
+	<med001>
+		<name>Amoxicillin</name>
+		<dosage>Adult - 500 mg every 12 hours or 250 mg every 8 hours Child - 40 mg per kilogram (kg) of weight per day in divided doses every 8 hours</dosage>
+		<sieff> Upset stomach, Diarrhea, Vomiting, Yeast infection</sieff>
+		<checom>4-thia-1-azabicyclo[3.2.0]-heptane-2-carboxylic acid, 3,3 -dimethyl-7-oxo-6-[(phenoxyacetyl)amino]-, monopotassium 				salt, [2S-(2a,5a,6b)]</checom>
+		<uses>Amoxicillin is used to treat different types of infection caused by bacteria, such as tonsillitis, bronchitis,  						pneumonia, gonorrhea, and infections of the ear, nose, throat, skin, or urinary tract.</uses>
+	</med001>
+	<med002>
+		<name>Acetaminophen</name>
+		<dosage>Child - 48-59 lbs Adult - 160 mg ; 80 mg/0.8 mL ; 160 mg/5 mL </dosage>
+		<sieff>Bloody or black tarry stools ,bloody or cloudy urine, yellow eyes or skin</sieff>
+		<checom>Povidone, Pregelatinized Starch, Sodium Starch Glycolate, Stearic Acid</checom>
+		<uses>Drug is used to treat mild to moderate pain (from headaches, menstrual periods, toothaches, backaches, osteoarthritis,or cold/flu aches and pains) and to reduce fever.</uses>
+	</med002>
+	<med003>
+		<name>Bactrim</name>
+		<dosage>Adult - 2 bactrim tablets every 12 hours for 10 to 14 days
+			Child - ½ bactrim tablets every 12 hours for 5 days</dosage>
+		<sieff>changes in skin color, chest pain, chills, cough or hoarseness, dark urine, diarrhea, dizziness</sieff>
+		<checom>trimethoprim IP 160 mg, Sulphamethoxazole IP 800 mg</checom>
+		<uses>To treat a variety of bacterial infections (such as middle ear, urine, respiratory, and intestinal infections)</uses>
+	</med003>
+	<med004>
+		<name>citalopram</name>
+		<dosage>Adult - 20 mg orally once a day
+			Child - 10 mg/5 mL once a day</dosage>
+		<sieff>Agitation, blurred vision, confusion, fever, lack of emotion, loss of memory</sieff>
+		<checom>copolyvidone, corn starch, crosscarmellose sodium, glycerin, lactose monohydrate, magnesium stearate, hypromellose, 				microcrystalline cellulose, polyethylene glycol, titanium dioxide and iron dioxide for coloring</checom>
+		<uses>Citalopram is used to treat depression.</uses>
+	</med004>
+	<med005>
+		<name>Ditropan XL</name>
+		<dosage>Adult-  5-mg tablet two to three times a day</dosage>
+		<sieff>Clumsiness or unsteadiness, confusion, convulsions, dizziness, drowsiness (severe), fainting, fast, slow, or irregular 				heartbeat, fever</sieff>
+		<checom>butylated hydroxytoluene, cellulose acetate, hypromellose, lactose, magnesium stearate, polyethylene glycol, 						polyethylene oxide, polysorbate 80, propylene glycol, synthetic iron oxides and titanium dioxide.</checom>
+		<uses>Ditropan XL is used to treat symptoms of overactive bladder, such as frequent or urgent urination, incontinence (urine 				leakage), and increased night-time urination.</uses>
+	</med005>
+	<med006>
+		<name>Elavil</name>
+		<dosage>Adult - 75 mg per day</dosage>
+		<sieff>Abdominal pain, agitation, black tarry stools, bleeding gums, blood in urine or stools, blurred vision</sieff>
+		<checom> colloidal silicon dioxide, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, 						polyethylene glycol, polysorbate, sodium starch glycolate and titanium dioxide</checom>
+		<uses>Elavil is used to treat symptoms of depression.</uses>
+	</med006>
+	<med007>
+		<name>Forteo</name>
+		<dosage>Adults - 20 mcg per day</dosage>
+		<sieff>leg cramps, joint pain, sore throat, runny nose, headache, neck pain, nausea, constipation, diarrhea</sieff>
+		<checom>glacial acetic acid, sodium acetate (anhydrous), mannitol, metacresol</checom>
+		<uses>Forteo is used to treat osteoporosis in men and women who have a high risk of bone fracture.</uses>
+	</med007>
+	<med008>
+		<name>Glucotrol</name>
+		<dosage>There is no fixed dosage</dosage>
+		<sieff>chills, cold sweats, coma, confusion, pale skin, depression, difficulty with moving, dizziness, fainting</sieff>
+		<checom>colloidal silicon dioxide; lactose; microcrystalline cellulose; starch; stearic acid</checom>
+		<uses> helps to control blood sugar levels by helping your pancreas produce insulin.</uses>
+	</med008>
+	<med009>
+		<name>Humulin</name>
+		<dosage>Dosage is based on the individual's metabolic needs, blood glucose results and glycemic control goal</dosage>
+		<sieff>insulin allergy, trouble breathing, wheezing, rapid pulse, sweating</sieff>
+		<checom>Glycerin,METACRESOL,Zinc,Phenol,PROTAMINE SULFATE,Sodium phosphate,dibasic,,Hydrochloric acid,Sodium hydroxide</checom>
+		<uses>Humulin is used to improve blood sugar control in adults </uses>
+	</med009>
+	<med010>
+		<name>Imodium</name>
+		<dosage>Adult -  4mg (two capsules) followed by 2 mg (one capsule) after each unformed stool
+			Child -  liquid formulation (IMODIUM® A-D 1 mg/7.5 mL) should be used</dosage>
+		<sieff>Bloating, constipation, loss of appetite, stomach pain (severe) with nausea and vomiting</sieff>
+		<checom>Lactose, cornstarch, talc, and magnesium stearate</checom>
+		<uses>Imodium is used to treat diarrhea</uses>
+	</med010>
+	<med011>
+		<name>Januvia</name>
+		<dosage>The recommended dose of JANUVIA is 100 mg once daily. JANUVIA can be taken with or without food.</dosage>
+		<sieff>Anxiety blurred vision, chills, cold sweats, confusion, cool, pale skin, depression, dizziness, fast heartbeat, 						headache</sieff>
+		<checom>microcrystalline cellulose, anhydrous dibasic calcium phosphate, croscarmellose sodium</checom>
+		<uses> control high blood sugar</uses>
+	</med011>
+	<med012>
+		<name>melmet</name>
+		<dosage>once a day</dosage>
+		<sieff>Flatulence, Muscle pain, Abdominal bloating, Chest pain, Skin rash, Flushing, Abdominal pain, Nail disorder, Diarrhoea, 			Headache, Indigestion, Bitter taste, Constipation, Allergic reaction, Heartburn</sieff>
+		<checom>Metformin(1000 Mg)</checom>
+		<uses>Melmet 500 mg tablet sr is used in the treatment of Type 2 diabetes, Polycystic ovary syndrome</uses>
+	</med012>
+	<med013>
+		<name>dolo</name>
+		<dosage>500 - 1000 mg in 3 times daily Maximum dose: 4 g / day</dosage>
+		<sieff>Skin reddening,Shortness of breath,Feeling of sickness,Allergic reactions,Swollen facial features,Liver damage</sieff>
+		<checom>paracetamol (1000mg)</checom>
+		<uses>Dolo Tablet is a medicine that is used for the treatment of Cold, Fever, Joint pain, Headache, Toothache, Ear pain and other 			conditions.</uses>
+	</med013>
+	<med014>
+		<name>Forminal G</name>
+		<dosage> Initially one 500 mg tablet three times a day, with or after food. 
+			After 10 to 15 days the dose should be adjusted, or increased to 850 mg or 1000 mg twice daily</dosage>
+		<sieff> Megaloblastic anaemia, Ketoacidosis and ketonuria, Severe cholestatic hepatsitis, Hypersensitivity, Hypoglycaemia, Anorexia, 				nausea, vomiting, constipation, diarrhoea</sieff>
+		<checom>Glimepiride (1 Mg), Metformin (1000 Mg)</checom>
+		<uses>Forminal G Tablet is a medicine that is used for the treatment of Type 2 diabetes mellitus, Maturity onset diabetes, 					Polycystic ovary syndrome and other conditions.</uses>
+	</med014>
+	<med015>
+		<name>Gelusil Antacid And Anti-Gas</name>
+		<dosage>Tablets: Chew 1-2 to tablets half to one hour after meals or as required. Repeat hourly if symptoms return, or as directed 			by a physician.
+			Liquid: Shake well before use. Take 1-2 teaspoonful (Approx. 5-10 ml) half to one hour after meals or as required.</dosage>
+		<sieff>This medication can cause nausea, constipation, diarrhea, or headache</sieff>
+		<checom>Dimethicone l.P. 50 mg, Magnesium Hydroxide I.P 250 mg, Dried Aluminium Hydrioxide 250 mg, Magnesium Aluminium Silicate 				Hydrate 50 mg</checom>
+		<uses>This medication is used to treat the symptoms of too much stomach acid such as stomach upset, heartburn, and acid 					indigestion</uses>
+	</med015>
+	<med016>
+		<name>concor</name>
+		<dosage>5 mg should be taken once a day in the morning, either on an empty stomach or with breakfast. If necessary, the dosage can 			be increased to 10 mg in the morning. An increase in the dosage to 20 mg daily may sometimes be necessary.</dosage>
+		<sieff>These include lassitude, dizziness, mild headache, perspiration, bradycardia, sleep disorders, restlessness, cold 			extremities, nausea, vomiting, diarrhoea and skin rash. Constipation, hypotension, paradoxical hypertension, depression, 			mass gain, paraesthesia, transient hearing loss, heart block, hallucinations, disturbances of vision, blood disorders, fluid 			retention, muscle cramps, allergic reactions, metabolic disturbances, alopecia, myopathies and stomatitis may occur. Overt 			psychosis has been reported with other beta-blockers.</sieff>
+		<checom>Each tablet contains 5 mg or 10 mg bisoprolol fumarate (2:1).</checom>
+		<uses>It is mainly used to treat cardiovascular illnesses such as high blood pressure (high blood pressure), coronary heart illness, 			arrhythmias (irregular heartbeat), ischemic heart illness (restricted blood supply to the heart), and myocardial infarction 			(necrosis of the heart muscle leading to heart attack). </uses>
+	</med016>
+	<med017>
+		<name>nasonex</name>
+		<dosage>Adults -  2 sprays(50 mcg of mometasone furoate in each spray)in each nostril once daily (total daily dose of 200 mcg)   				Child - 1 spray(50 mcg of mometasone furoate in each spray)in each nostril once daily (total daily dose of 100 mcg)  		</dosage>
+		<sieff>Bloody mucus or unexplained nosebleeds, chills, cold or flu-like symptoms, cough or hoarseness, fever, headache, increased 				abdominal or stomach pain and cramping during menstrual periods, muscle or bone pain, stuffy or runny nose</sieff>
+		<checom>NASONEX Nasal Spray 50 mcg is a metered-dose, manual pump spray unit containing an aqueous suspension of mometasone furoate 			monohydrate equivalent to 0.05% w/w mometasone furoate calculated on the anhydrous basis</checom>
+		<uses>Nasonex (mometasone) is used to treat nasal symptoms of seasonal or year-round allergies, including congestion, sneezing, and 				runny nose.</uses>
+	</med017>
+	<med018>
+		<name>paroxetine</name>
+		<dosage>20 mg orally once a day</dosage>
+		<sieff>Agitation, chest congestion, chest pain, chills, cold sweats, confusion, difficulty with breathing, dizziness, 			faintness</sieff>
+		<checom>dibasic calcium phosphate dihydrate, hypromellose, magnesium stearate, polyethylene glycols, polysorbate 80, sodium starch 			glycolate, titanium dioxide</checom>
+		<uses>Paroxetine is used to treat depression, obsessive-compulsive disorder, anxiety disorders, post-traumatic stress disorder 					(PTSD), and premenstrual dysphoric disorder (PMDD).</uses>
+	</med018>
+	

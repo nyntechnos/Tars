@@ -1,0 +1,228 @@
+Amoxicillin
+{
+  "output": {
+    "text": {
+      "values": [
+        "Upset stomach, Diarrhea, Vomiting, Yeast infection"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+Acetaminophen
+{
+  "output": {
+    "text": {
+      "values": [
+        "Bloody or black tarry stools ,bloody or cloudy urine, yellow eyes or skin"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+Bactrim
+{
+  "output": {
+    "text": {
+      "values": [
+        "changes in skin color, chest pain, chills, cough or hoarseness, dark urine, diarrhea, dizziness"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+citalopram
+{
+  "output": {
+    "text": {
+      "values": [
+        "Agitation, blurred vision, confusion, fever, lack of emotion, loss of memory"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+
+Ditropan XL
+{
+  "output": {
+    "text": {
+      "values": [
+        "Clumsiness or unsteadiness, confusion, convulsions, dizziness, drowsiness (severe), fainting, fast, slow, or irregular heartbeat, fever"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+
+Elavil
+{
+  "output": {
+    "text": {
+      "values": [
+        "Abdominal pain, agitation, black tarry stools, bleeding gums, blood in urine or stools, blurred vision"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+
+Forteo
+{
+  "output": {
+    "text": {
+      "values": [
+        "leg cramps, joint pain, sore throat, runny nose, headache, neck pain, nausea, constipation, diarrhea"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+
+Glucotrol
+{
+  "output": {
+    "text": {
+      "values": [
+        "chills, cold sweats, coma, confusion, pale skin, depression, difficulty with moving, dizziness, fainting"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+
+Humulin
+{
+  "output": {
+    "text": {
+      "values": [
+        "insulin allergy, trouble breathing, wheezing, rapid pulse, sweating"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+
+Imodium
+{
+  "output": {
+    "text": {
+      "values": [
+        "Bloating, constipation, loss of appetite, stomach pain (severe) with nausea and vomiting"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+
+Januvia
+{
+  "output": {
+    "text": {
+      "values": [
+        "Anxiety blurred vision, chills, cold sweats, confusion, cool, pale skin, depression, dizziness, fast heartbeat, headache"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+melmet
+{
+  "output": {
+    "text": {
+      "values": [
+        "Flatulence, Muscle pain, Abdominal bloating, Chest pain, Skin rash, Flushing, Abdominal pain, Nail disorder, Diarrhoea, Headache, Indigestion, Bitter taste, Constipation, Allergic reaction, Heartburn"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+
+dolo
+{
+  "output": {
+    "text": {
+      "values": [
+        "Skin reddening,Shortness of breath,Feeling of sickness,Allergic reactions,Swollen facial features,Liver damage"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+
+Forminal G
+{
+  "output": {
+    "text": {
+      "values": [
+        "Megaloblastic anaemia, Ketoacidosis and ketonuria, Severe cholestatic hepatsitis, Hypersensitivity, Hypoglycaemia, Anorexia, nausea, vomiting, constipation, diarrhoea"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+
+Gelusil Antacid And Anti-Gas
+{
+  "output": {
+    "text": {
+      "values": [
+        "This medication can cause nausea, constipation, diarrhea, or headache"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+
+concor
+{
+  "output": {
+    "text": {
+      "values": [
+        "These include lassitude, dizziness, mild headache, perspiration, bradycardia, sleep disorders, restlessness, cold extremities, nausea, vomiting, diarrhoea and skin rash. Constipation, hypotension, paradoxical hypertension, depression, mass gain, paraesthesia, transient hearing loss, heart block, hallucinations, disturbances of vision, blood disorders, fluid retention, muscle cramps, allergic reactions, metabolic disturbances, alopecia, myopathies and stomatitis may occur. Overt psychosis has been reported with other beta-blockers."
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+
+nasonex
+{
+  "output": {
+    "text": {
+      "values": [
+        "Bloody mucus or unexplained nosebleeds, chills, cold or flu-like symptoms, cough or hoarseness, fever, headache, increased abdominal or stomach pain and cramping during menstrual periods, muscle or bone pain, stuffy or runny nose"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
+
+
+paroxetine
+{
+  "output": {
+    "text": {
+      "values": [
+        "Agitation, chest congestion, chest pain, chills, cold sweats, confusion, difficulty with breathing, dizziness, faintness"
+      ],
+      "selection_policy": "sequential"
+    }
+  }
+}
